@@ -1,5 +1,14 @@
 # 🧠 ML (Hands-on Portfolio)  
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific-blue?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-DataFrame-lightblue?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-green?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DL-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-DL-red?style=for-the-badge&logo=keras&logoColor=white)
+
+
 This repository is a collection of my **hands-on implementations and experiments** in **Machine Learning** and **Deep Learning**, completed as part of my **Nan Mudhalvan AI/ML course**.  
 
 It documents my **learning journey** — from preprocessing raw data to building ML models and deep neural networks like ANN, CNN, FNN, and RNN.  
