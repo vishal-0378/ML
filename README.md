@@ -1,4 +1,4 @@
-# 🧠 ML (Hands-on Portfolio)  
+# 🧠 AI/ML Hands-On – ML
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -8,106 +8,72 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DL-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-DL-red?style=for-the-badge&logo=keras&logoColor=white)
 
+---
 
-This repository is a collection of my **hands-on implementations and experiments** in **Machine Learning** and **Deep Learning**, completed as part of my **Nan Mudhalvan AI/ML course**.  
-
-It documents my **learning journey** — from preprocessing raw data to building ML models and deep neural networks like ANN, CNN, FNN, and RNN.  
+Welcome to my **AI & Machine Learning hands-on repository**!  
+This repository contains coding exercises, projects, and hands-on notebooks based on the topics covered in the **AISECT AI/ML course**.
 
 ---
 
-## 📂 Repository Structure  
+## 📚 Course Overview
 
-```
-/
-├── data_preprocessing.ipynb  
-├── Weather_*.ipynb  
-├── fraud_using_cls_mdl.ipynb  
-├── house_price_modle.ipynb  
-├── image_classification_cnn.ipynb  
-├── price_prediction_model(pre_processed).ipynb  
-├── traditional_RFE.ipynb  
-├── grid_less_parameter(CLS)/REG/…  
-└── Deep Learning/  
-    └── (ANN, CNN, RNN notebooks etc.)  
-```
+The course covers both **fundamental and advanced concepts** of Artificial Intelligence and Machine Learning, including:
 
-- **Preprocessing** → cleaning, encoding, scaling, handling missing values  
-- **Machine Learning** → classification & regression models (fraud detection, price prediction, etc.)  
-- **Feature Engineering** → RFE, hyperparameter tuning, parameter experiments  
-- **Deep Learning** → ANN, CNN (image classification), FNN, RNN  
+- Introduction to AI & ML  
+- Supervised and Unsupervised Learning  
+- Regression and Classification Algorithms  
+- Model Evaluation Techniques  
+- Real-world ML projects  
+- Deep Learning (ANN, CNN, FNN, RNN)  
+- Natural Language Processing (NLP)  
+- Generative AI  
 
 ---
 
-## 🔑 Highlights  
+## 🛠️ Technologies & Tools
 
-- Hands-on notebooks from **Nan Mudhalvan AI/ML course**  
-- Covers **end-to-end ML pipeline**: preprocessing → training → evaluation  
-- Practical datasets (weather, fraud detection, housing prices, etc.)  
-- Experiments with **deep learning architectures**  
+**Programming Language:** Python 🐍  
 
----
-
-## ⚙️ Tech Stack  
-
-- **Language:** Python 🐍  
-- **Libraries/Frameworks:**  
-  - NumPy, Pandas  
-  - Matplotlib, Seaborn  
-  - Scikit-learn  
-  - TensorFlow / Keras  
+**Libraries / Frameworks Used:**  
+- NumPy  
+- Pandas  
+- Matplotlib / Seaborn  
+- Scikit-learn  
+- TensorFlow / Keras  
+- Jupyter Notebook / Google Colab  
+- NLTK / Spacy (for NLP)  
+- Ollama (planned for Gen AI)  
 
 ---
 
-## 🚀 Getting Started  
+## 📌 Notes
 
-Clone the repo:  
-```bash
-git clone https://github.com/vishal-0378/ML.git
-cd ML
-```
-
-(Optional) Create a virtual environment:  
-```bash
-python -m venv venv
-source venv/bin/activate   # on Linux/Mac
-venv\Scripts\activate      # on Windows
-```
-
-Install dependencies (you can create `requirements.txt` if not already):  
-```bash
-pip install -r requirements.txt
-```
-
-Run notebooks:  
-```bash
-jupyter notebook
-```
+- This repo is strictly for **hands-on learning**.  
+- Datasets used are either **open-source** or provided by the course.  
+- Code includes **comments** for better understanding and reproducibility.  
 
 ---
 
-## 📅 Learning Journey  
+## 🙋‍♂️ About Me
 
-| Stage | Topics Covered | Example Notebooks |
-|-------|----------------|--------------------|
-| 1 | Preprocessing | `data_preprocessing.ipynb`, `Weather_*.ipynb` |
-| 2 | Classical ML models | `fraud_using_cls_mdl.ipynb`, `house_price_modle.ipynb` |
-| 3 | Feature selection & tuning | `traditional_RFE.ipynb`, `grid_less_parameter*.ipynb` |
-| 4 | Deep Learning | `image_classification_cnn.ipynb`, `Deep Learning/` |
+- **Name:** Thiyagarajan S  
+- **Qualification:** BCA Graduate  
+- **Learning Platform:** AISECT AI/ML Course  
+- **Email:** thiyagarajan0378@gmail.com  
 
 ---
 
-## 📝 Notes  
+## 📫 Contact
 
-- This repo is mainly for **learning & practice**, not production-ready code  
-- Some notebooks are **experiments / WIP**  
-- Feedback & suggestions are always welcome 🙌  
+Feel free to connect or suggest improvements:  
 
----
-
-## 📬 Connect  
-
-If you have feedback or want to collaborate, feel free to connect with me here on GitHub.  
+- **Email:** thiyagarajan0378@gmail.com  
+- **LinkedIn:** [linkedin.com/in/thiyagarajan](https://www.linkedin.com/)  
 
 ---
 
-✨ *This repo reflects my journey of learning AI/ML through Nan Mudhalvan hands-on practice. Every notebook is a step forward in mastering ML & DL.*  
+## ⭐ Acknowledgements
+
+- My mentors and tutors at **AISECT** for guidance  
+- **AISECT Learning Portal**  
+- Open-source community and contributors for libraries and datasets
